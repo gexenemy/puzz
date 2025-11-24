@@ -1,0 +1,11 @@
+{
+  "name": "yws-server",
+  "private": true,
+  "scripts": {
+    "start": "y-websocket-server --port 1234 --host 0.0.0.0"
+  },
+  "dependencies": {
+    "y-websocket": "^1.5.4",
+    "yjs": "13.6"
+  }
+}
