@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"app\\\\puzzle\\\\[sessionId]\\\\page.tsx -> @/components/PuzzleBoard\":{\"id\":\"app\\\\puzzle\\\\[sessionId]\\\\page.tsx -> @/components/PuzzleBoard\",\"files\":[\"static/chunks/_app-pages-browser_components_PuzzleBoard_tsx.js\"]}}"
